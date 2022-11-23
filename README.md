@@ -11,12 +11,12 @@ Here I used clustering analysis method. and implemented customer segmentation us
 
 # Libraries Required:
 
-Numpy
-Pandas
-Matplotlib
-Seaborn
+* Numpy
+* Pandas
+* Matplotlib
+* Seaborn
 
-#Procedure
+# Procedure:
 
 1.Installing libraries
 2.Reading the dataset
