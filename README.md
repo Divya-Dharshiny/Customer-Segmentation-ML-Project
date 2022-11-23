@@ -8,3 +8,21 @@ If we know the different groups of customers coming into a mall and their spendi
 serve different marketing strategies for different groups of customers.
 
 Here I used clustering analysis method. and implemented customer segmentation using k-means clustering in python.
+
+# Libraries Required:
+
+Numpy
+Pandas
+Matplotlib
+Seaborn
+
+#Procedure
+
+1.Installing libraries
+2.Reading the dataset
+3.Hierarchial clustering analysis
+4.Using dendrograms to find the no. of optimal cluster
+
+
+
+
