@@ -18,10 +18,10 @@ Here I used clustering analysis method. and implemented customer segmentation us
 
 # Procedure:
 
- * 1.Installing libraries
-## 2.Reading the dataset
-3.Hierarchial clustering analysis
-4.Using dendrograms to find the no.of optimal cluster
+* 1.Installing libraries
+* 2.Reading the dataset
+* 3.Hierarchial clustering analysis
+* 4.Using dendrograms to find the no.of optimal cluster
 
 
 
